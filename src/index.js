@@ -1,4 +1,4 @@
 import "./style.css"
-import "./first"
+import "./second"
 
 

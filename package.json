@@ -25,6 +25,7 @@
     "serve": "webpack serve"
   },
   "dependencies": {
+    "gsap": "^3.10.4",
     "three": "^0.141.0"
   }
 }
