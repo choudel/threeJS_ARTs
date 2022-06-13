@@ -1,4 +1,4 @@
 import "./style.css"
-import "./second"
+import "./3rd-poject"
 
 
